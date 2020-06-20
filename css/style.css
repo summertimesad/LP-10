@@ -1,14 +1,6 @@
-/* Header, footer */
-
-nav {
-  background-color: #;
-}
-
-/* Navbar */
-
 .navbar-brand {
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 300;
 }
 
 .nav-link, .dropdown-item {
